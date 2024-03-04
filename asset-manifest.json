@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ErdniElzenov/Valatnis.github.io.git/static/css/main.6c728ed7.css",
-    "main.js": "/ErdniElzenov/Valatnis.github.io.git/static/js/main.db7ddf64.js",
-    "index.html": "/ErdniElzenov/Valatnis.github.io.git/index.html",
-    "main.6c728ed7.css.map": "/ErdniElzenov/Valatnis.github.io.git/static/css/main.6c728ed7.css.map",
-    "main.db7ddf64.js.map": "/ErdniElzenov/Valatnis.github.io.git/static/js/main.db7ddf64.js.map"
+    "main.css": "/Valatnis.github.io/static/css/main.6c728ed7.css",
+    "main.js": "/Valatnis.github.io/static/js/main.db7ddf64.js",
+    "index.html": "/Valatnis.github.io/index.html",
+    "main.6c728ed7.css.map": "/Valatnis.github.io/static/css/main.6c728ed7.css.map",
+    "main.db7ddf64.js.map": "/Valatnis.github.io/static/js/main.db7ddf64.js.map"
   },
   "entrypoints": [
     "static/css/main.6c728ed7.css",
