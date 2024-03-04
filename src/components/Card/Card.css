@@ -1,0 +1,20 @@
+.card {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.card__product {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 100%;
+  max-width: 1300px;
+  flex-direction: row;
+}
+.card__item {
+  width: 300px;
+  height: 200px;
+  border: 1px solid;
+  border-radius: 20px;
+}

@@ -1,0 +1,2 @@
+.card{justify-content:center}.card,.card__product{display:flex;width:100%}.card__product{flex-direction:row;flex-wrap:wrap;gap:10px;max-width:1300px}.card__item{border:1px solid;border-radius:20px;height:200px;width:300px}.hader{background-color:#bdbdbd;font-size:70px;font-weight:700;height:150px;margin-bottom:10px;padding-top:10px;text-align:center;width:100%}.filter{margin:20px;width:300px}.home,.pagination{display:flex}.pagination{justify-content:center;margin:10px 0}
+/*# sourceMappingURL=main.6c728ed7.css.map*/
