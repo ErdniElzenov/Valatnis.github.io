@@ -61,7 +61,8 @@ const Home = () => {
       try {
         // создаем массив запроса отталкиваясь от пагинации
         const pageArray = [];
-        for (let i = carrentPage; i <= carrentPage + pagesize; i++) {
+        const ofset = carrentPage * pagesize;
+        for (let i = ofset; i < ofset + pagesize; i++) {
           pageArray.push(data.result[i]);
         }
         // запрос
