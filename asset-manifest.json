@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Valatnis.github.io/static/css/main.6c728ed7.css",
-    "main.js": "/Valatnis.github.io/static/js/main.db7ddf64.js",
+    "main.js": "/Valatnis.github.io/static/js/main.8cd8f5f9.js",
     "index.html": "/Valatnis.github.io/index.html",
     "main.6c728ed7.css.map": "/Valatnis.github.io/static/css/main.6c728ed7.css.map",
-    "main.db7ddf64.js.map": "/Valatnis.github.io/static/js/main.db7ddf64.js.map"
+    "main.8cd8f5f9.js.map": "/Valatnis.github.io/static/js/main.8cd8f5f9.js.map"
   },
   "entrypoints": [
     "static/css/main.6c728ed7.css",
-    "static/js/main.db7ddf64.js"
+    "static/js/main.8cd8f5f9.js"
   ]
 }
